@@ -15,7 +15,7 @@ Encrypt and Decrypt any kind of file
 
 <p><code>Done.</code></p>
 
-<p>Now you can find in your directory a file caleld <strong>(encrypted)photo.jpg</strong>
+<p>Now you can find in your directory a file called <strong>(encrypted)photo.jpg</strong>
 
 <p>To decrypt a file:</p>
 
