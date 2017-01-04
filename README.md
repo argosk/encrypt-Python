@@ -3,7 +3,7 @@ Encrypt and Decrypt any kind of file
 
 <h2>How to use:</h2>
 
-<p>To encrypt a file</p>
+<p>Encrypt a file</p>
 
 <code>python3 encrypt.py</code>
 
@@ -17,7 +17,7 @@ Encrypt and Decrypt any kind of file
 
 <p>Now you can find in your directory a file called <strong>(encrypted)photo.jpg</strong>
 
-<p>To decrypt a file:</p>
+<p>Decrypt a file:</p>
 
 <code>python3 encrypt.py</code>
 
